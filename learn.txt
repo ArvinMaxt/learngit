@@ -1,2 +1,3 @@
 I'm a text!
 I'm a new line!
+test!
