@@ -1,5 +1,9 @@
 I'm a test file
+I'm changed
+I'm changed~2
 I'm changed too
 I'm changed
 ÐÞ¸Ä1
 ÐÞ¸Ä2
+change~1
+change~2
