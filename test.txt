@@ -4,3 +4,4 @@ I'm changed~2
 I'm changed too
 I'm changed
 change~1
+change~2
