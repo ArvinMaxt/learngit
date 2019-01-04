@@ -2,3 +2,4 @@ I'm a test file
 I'm changed too
 I'm changed
 ÐÞ¸Ä1
+ÐÞ¸Ä2
