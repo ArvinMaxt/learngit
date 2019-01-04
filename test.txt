@@ -1,2 +1,3 @@
 I'm a test file
 I'm changed too
+I'm changed
