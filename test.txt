@@ -1,3 +1,5 @@
 I'm a test file
 I'm changed
 I'm changed~2
+I'm changed too
+I'm changed
